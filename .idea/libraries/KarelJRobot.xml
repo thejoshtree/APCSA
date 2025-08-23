@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KarelJRobot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/robot/out/production/robot/+libs/KarelJRobot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
