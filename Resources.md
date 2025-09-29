@@ -2,6 +2,9 @@
 ## AP Exam guideline.
 https://youtu.be/aRLDi2q-4WY
 
+## OOP
+https://www.youtube.com/watch?v=m_MQYyJpIjg
+
 ## Superclass, subclass, inheritnace
 
 ### Introduction - the Chef
@@ -24,6 +27,12 @@ https://www.youtube.com/watch?v=6wVmqY-CrGM
 ## abstract class
 https://www.youtube.com/watch?v=52frlN8webg
 
+## Data structures
+https://www.youtube.com/watch?v=bum_19loj9A
+https://www.youtube.com/watch?v=O9v10jQkm5c
+
 ## static vs non-static
 https://www.youtube.com/watch?v=-Y67pdWHr9Y
 
+## Markov Chain
+https://www.youtube.com/watch?v=KZeIEiBrT_w
