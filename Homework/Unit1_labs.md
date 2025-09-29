@@ -1,3 +1,9 @@
+## Write those questions on paper first, then code them in your IDE.
+## How To turn in your homework, 
+1. Create a directory with your initial, no space, e.g. MG_Unit1_Homework
+2. push your commmit and create a pull request to Homework Directory.
+
+## Problems.
 1.   Using the Point class, create two Point objects, using both constructors. Output the points. Move the points and then find the distance between the points using the Math.sqrt method. Output the two Point objects and the calculated distance.
 
 2.  Using the Dice class, create two Dice objects using the no-arg constructor. Roll the dice and output their face value and their sum. 
@@ -100,6 +106,7 @@ Enter the second number: 25
 A random number in the interval of [5, 25]: 18
 
 NOTE: Any valid number in the interval is possible.
+
 12. Write a program that will allow the user to input two doubles and output the first number raised to the power of the second number. 
 Example 1
 Example 2
