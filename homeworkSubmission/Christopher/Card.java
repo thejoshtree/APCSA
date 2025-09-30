@@ -24,17 +24,17 @@ public class Card {
     //accessor methods -- many of them one line return the attribute
     public String getSuit()
     {
-        return ;
+        return suit;
     }
 
     public String getRank()
     {
-        
+        return rank
     }
 
     public int getPointValue()
     {
-        
+        return pointValue
     }
 
     public boolean matches(Card c) //compare two cards
