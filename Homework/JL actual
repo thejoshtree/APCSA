@@ -1,4 +1,4 @@
-public class PointTest {
+public class Point{
     public static void main(String[] args) {
         int p1 = new Point();      
         int p2 = new Point(3, 4);     
