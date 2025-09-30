@@ -1,5 +1,3 @@
-First Problem: Dice Class
-
 public class Dice
 {
     private int numSides;
