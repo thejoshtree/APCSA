@@ -1,0 +1,90 @@
+First Problem: Dice Class
+
+public class Dice
+{
+    private int numSides;
+    private int faceValue;
+    
+    public Dice()
+    {
+        numSides = 6;
+        faceValue = 1;
+    }
+    
+    public Dice(int sides)
+    {
+        numSides = sides;
+        faceValue = 1;
+    }
+    
+    public int getNumSides()
+    {
+        return numSides;
+    }
+    
+    public int getFaceValue()
+    {
+        return faceValue;
+    }
+    
+    public int roll()
+    {
+        faceValue = (int)(Math.random() * numSides) + 1;
+        return faceValue;
+    }
+    
+    public String toString()
+    {
+        return "" + faceValue;
+    }
+    
+    public static void main(String[] args) 
+    {
+        Dice d = new Dice(6);   
+        System.out.println("Rolling:");
+        for (int roll = 0; roll < 10; roll++) 
+        {
+            System.out.println("Roll " + roll + ": " + d.roll());
+        }
+    }
+}
+
+
+
+
+
+
+Second Homework: Point Class
+
+public class point 
+{
+    private int x;
+    private int y;
+    
+    public point(int x, int y)
+    {
+        this.x = x;
+        this.y = y;
+    }
+    
+    public void translate(int dx, int dy)
+    {
+        x += dx;
+        y += dy;
+    }
+    
+    public String toString() 
+    {
+        return "(" + x + ", " + y + ")";
+    }
+    
+    
+    public static void main(String[] args) 
+    {
+        point p = new point(3, 4);
+        System.out.println("Original point: " + p);
+        
+        p.translate(2, -1);
+        System.out.println("After translating by (2, -1): " + p);
+    }
+}   
