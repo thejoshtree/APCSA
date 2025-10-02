@@ -22,7 +22,8 @@ Enter a string: CS Rocks!
 "CS Rocks!"
 
 
-4. Write a program that will allow the user to input an odd-length String and then will print out the String and its middle character. 
+4. Write a program that will allow the user to input an odd-length String and then will print out the String and its middle character.
+    
 Example 1
 
 Enter a string: Juniper
@@ -34,6 +35,7 @@ The middle character of CS Rocks! is o.
 
 
 5. Write a program that will allow the user to input a String with at least three characters. The String must begin and end with a non-space character and must contain exactly one space between the first and last characters. Print the characters before the space on one line and the characters after the space on the next line. Use the Scanner nextLine method to read the String.
+   
 Example 1
 
 Enter a string: Juniper Honeysuckle
@@ -49,6 +51,7 @@ Characters after the space: Rocks!
 5. Write a program that will allow the user to input a String and randomly print one of its characters. Use Math.random to generate the index of the printed character.
    
 7. Write a program that will allow the user to enter a String that has two or more e’s in it. Print the index of the second e. Assume the String contains only lowercase e's.
+   
 Example 1
 
 Enter a string: Honeysuckle
@@ -59,6 +62,7 @@ Enter a string: excellent
 Index of the second e:3
 
 8. Write a program that will allow the user to input two strings and determine if the two strings are equal using the equals method. Create the strings using the String constructor.
+   
 Example 1
 
 Enter the first string: EGGS
@@ -72,6 +76,7 @@ joy equals joy is true.
 
 
 9. Write a program that will allow the user to input a string and determine if the first and last characters of the string are the same.
+    
 Example 1
 
 Enter a string: EGGS
@@ -87,6 +92,7 @@ a equals a is true.
 
 
 10. Write a program that will allow the user to input two strings and output the result of a call to the compareTo method. Use the first input string to call the compareTo method and the second input string as the parameter.
+    
 Example 1
 
 Enter the first string: computer
@@ -99,7 +105,8 @@ Enter the second string: Honeysuckle
 The result of the compareTo method: 2
 
 
-11. Write a program that will allow the user to input two integers and output the positive distance between them. 
+11. Write a program that will allow the user to input two integers and output the positive distance between them.
+    
 Example 1
 
 Enter the first number: -2
@@ -115,6 +122,7 @@ The distance between 5 and -1 is 6.
 
 12. Write a program that will allow the user to input two integers, num1 and num2, where 
 num1 <= num2, the program prints a random number in the interval of [num1, num2].
+
 Example 1
 
 Enter the first number: 1
@@ -128,7 +136,8 @@ A random number in the interval of [5, 25]: 18
 
 NOTE: Any valid number in the interval is possible.
 
-13. Write a program that will allow the user to input two doubles and output the first number raised to the power of the second number. 
+13. Write a program that will allow the user to input two doubles and output the first number raised to the power of the second number.
+     
 Example 1
 
 Enter the base: 2.5
