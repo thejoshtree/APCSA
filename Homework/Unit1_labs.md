@@ -10,6 +10,7 @@
 
 3. Write a program that will allow the user to input a String and will output the String with quotes around it. You will need to use the escape sequence \" to append a quote.
 str1 = "\"" + str1 + "\"";
+
 Example 1
 
 Enter a string: Hello
