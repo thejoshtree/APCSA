@@ -18,5 +18,4 @@ public class Point{
         System.out.println("Point 2: " + p2);
         System.out.println("Distance: " + distance);
     }
-}//This is the first problem of the homework.
-
+}

@@ -1,4 +1,4 @@
-public class Point{
+public class PointTest {
     public static void main(String[] args) {
         int p1 = new Point();      
         int p2 = new Point(3, 4);     
@@ -18,5 +18,4 @@ public class Point{
         System.out.println("Point 2: " + p2);
         System.out.println("Distance: " + distance);
     }
-}//This is the first problem of the homework.
-
+}
