@@ -45,3 +45,4 @@ public boolean makeBricks(int small, int big, int goal) {
     int remainder = goal - (maxBig * 5);
     return remainder <= small;
 }
+
