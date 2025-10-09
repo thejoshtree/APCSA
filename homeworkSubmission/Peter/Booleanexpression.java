@@ -34,7 +34,15 @@ public class main
     //squirrelPlay
     public boolean squirrelPlay(int temp, boolean isSummer)
     {
-        int upper = isSummer 100 ? : 90;
+        int upper;
+        if (isSummer)
+        {
+            upper = 100;
+        }
+        else
+        {
+            upper = 90;
+        }
         return temp >= 60 && temp <= upper;
     }
     
@@ -43,7 +51,12 @@ public class main
     //catch speed
     public int caughtSpeeding(int speed, boolean isBirthday) 
     {
-        int allowance = isBirthday ? 5 : 0;
+        int allowance = 0;
+        if (isBrithday)
+        {
+            allowance = 5;
+        }
+        
         if (speed <= 60 + allowance)
         {
             return 0; 
