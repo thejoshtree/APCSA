@@ -1,1 +1,3 @@
-This is the folder containing lecture file.
+# Lecture files
+
+Please use these file wisely.
