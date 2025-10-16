@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=-Y67pdWHr9Y
 
 ## Markov Chain
 https://www.youtube.com/watch?v=KZeIEiBrT_w
+
+## Boolean and conditional
+https://codingbat.com/doc/java-if-boolean-logic.html
