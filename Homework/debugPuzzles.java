@@ -1,4 +1,4 @@
-# debug the following code, use your brain and paper. If you couldn't find the errors, use your IDE.
+// debug the following code, use your brain and paper. If you couldn't find the errors, use your IDE.
 
 public class SimplePuzzle {
     public static void main(String[] args) {
