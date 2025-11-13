@@ -4,7 +4,9 @@
 
 e.g. 
 Enter an integer.-3-6-12-24-48-96-192
+
  The number was doubled 6
+ 
  times.
 
  
@@ -14,6 +16,7 @@ Enter an integer.-3-6-12-24-48-96-192
 
 e.g.
  9 3 3 8 1
+ 
  The average is 4.8
  
 3. Writeaprogramthat does the following.
@@ -26,11 +29,19 @@ e.g.
 
 e.g. 
 What is the secret number?
+
  45
+ 
  fifty blank lines
+ 
  Guess the secret number: 56
+ 
  Too high. Guess again. 33
+ 
  Too low. Guess again. 40
+ 
  Too low. Guess again. 45
+
  Correct!
+ 
  Number of guesses: 4
