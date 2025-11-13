@@ -3,11 +3,12 @@
  times the number was doubled. Assume they do NOT enter a zero.
 
 e.g. 
-Enter an integer.-3-6-12-24-48-96-192
 
- The number was doubled 6
- 
- times.
+Enter an integer.
+
+-3-6-12-24-48-96-192
+
+ The number was doubled 6 times.
 
  
 2.  Writeaprogramthat generates and displays 5 random integers and then displays their average
@@ -15,6 +16,7 @@ Enter an integer.-3-6-12-24-48-96-192
  the five integers.
 
 e.g.
+
  9 3 3 8 1
  
  The average is 4.8
@@ -28,6 +30,7 @@ e.g.
  displays Correct! and the number of guesses.
 
 e.g. 
+
 What is the secret number?
 
  45
