@@ -6,7 +6,13 @@ e.g.
 
 Enter an integer.
 
--3-6-12-24-48-96-192
+-3
+-6
+-12
+-24
+-48
+-96
+-192
 
  The number was doubled 6 times.
 
