@@ -1,4 +1,4 @@
-1. Write a program where the user enters an integer, and the program keeps doubling that number
+Q1. Write a program where the user enters an integer, and the program keeps doubling that number
  until it is greater than 99 or less than-99. The program displays the numbers and afterwards how many
  times the number was doubled. Assume they do NOT enter a zero.
 
@@ -23,7 +23,7 @@ Enter an integer.
  The number was doubled 6 times.
 
  
-2.  Write a program that generates and displays 5 random integers and then displays their average
+Q2.  Write a program that generates and displays 5 random integers and then displays their average
  as a double. The random integers should be in the range [1, 10]. You must use a while loop to generate
  the five integers.
 
@@ -33,7 +33,7 @@ e.g.
  
  The average is 4.8
  
-3. Write a program that does the following.
+Q3. Write a program that does the following.
  First, player one is asked to enter an integer in the range [1, 50]. The program gets the number and then
  prints 50 blank lines (which hides the secret number from player two).
  Then player two must guess the secret number. If their guess is too high, the program prints Too High. If
