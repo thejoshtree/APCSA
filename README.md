@@ -2,7 +2,7 @@
 
 ## [How to use Git and Github] ()
 
-## [Resources] ()
+## [Resources] (Resources.md)
 
 ## [Homework] ()
 
